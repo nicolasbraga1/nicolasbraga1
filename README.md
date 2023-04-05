@@ -15,7 +15,7 @@
 
 - 📄 Dá uma olhada no meu curriculum [https://gitconnected.com/nicolasbraga1](https://gitconnected.com/nicolasbraga1)
 
-- ⚡ Curiosidade minha **Você pode me encontrar em jogos com o user Nicktins**
+- ⚡ Curiosidade minha **Você pode me encontrar em jogos se procurar por Nicktins**
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
