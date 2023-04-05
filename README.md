@@ -15,11 +15,12 @@
 
 - 📄 Dá uma olhada no meu curriculum [https://gitconnected.com/nicolasbraga1](https://gitconnected.com/nicolasbraga1)
 
-- ⚡ Curiosidade minha **Você pode acabar me encontrando em algum jogo com o username Nicktins**
+- ⚡ Curiosidade minha **Você pode me encontrar em jogos com o user Nicktins**
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicolas-braga-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-braga-dev" height="30" width="40" /></a>
+<a href="https://fb.com/nicolas.oliveira.37201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nicolas.oliveira.37201" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
