@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasbraga1" alt="nicolasbraga1" /></a> </p>
 
-- 🌱 Estou aprendendo no momento **Back-end**
+- 🌱 Estou aprendendo no momento **Java**
 
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/nicolasbraga1](https://github.com/nicolasbraga1)
 
-- 💬 Me pergunte sobre **react, html, mysql**
+- 💬 Me pergunte sobre **react, html, mysql, python**
 
 - 📫 Me contate em **nicolasbrga01@gmail.com**
 
